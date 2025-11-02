@@ -19,3 +19,5 @@ https://www.python.org/downloads/windows/
 
 
 Установить зависимости из папки install
+
+Запускается из файла Recognizer.py
